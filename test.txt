@@ -1,0 +1,9 @@
+“TEST _1.exe”(Win32): 已加载“E:\code\VS\TEST _1\x64\Debug\TEST _1.exe”。已加载符号。
+“TEST _1.exe”(Win32): 已加载“C:\Windows\System32\ntdll.dll”。
+“TEST _1.exe”(Win32): 已加载“C:\Windows\System32\kernel32.dll”。
+“TEST _1.exe”(Win32): 已加载“C:\Windows\System32\KernelBase.dll”。
+线程 0x6980 已退出，返回值为 0 (0x0)。
+“TEST _1.exe”(Win32): 已加载“C:\Windows\System32\kernel.appcore.dll”。
+“TEST _1.exe”(Win32): 已加载“C:\Windows\System32\msvcrt.dll”。
+线程 0x6540 已退出，返回值为 0 (0x0)。
+程序“[1988] TEST _1.exe”已退出，返回值为 0 (0x0)。
